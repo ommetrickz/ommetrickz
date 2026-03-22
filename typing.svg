@@ -1,0 +1,47 @@
+<svg width="700" height="50" viewBox="0 0 700 50" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Space+Mono&amp;display=swap');
+
+      .bg { fill: #0d1117; }
+      .text {
+        font-family: 'Space Mono', monospace;
+        font-size: 15px;
+        fill: #7a8ba0;
+        letter-spacing: 1px;
+      }
+      .cursor {
+        fill: #4f8ef7;
+        animation: blink 1s step-end infinite;
+      }
+      @keyframes blink {
+        0%, 100% { opacity: 1; }
+        50%       { opacity: 0; }
+      }
+
+      /* Text reveal clips */
+      #line1 .text { clip-path: url(#clip1); animation: reveal1 2s steps(40, end) forwards 0.5s; }
+      #line2 .text { clip-path: url(#clip2); animation: reveal2 2s steps(40, end) forwards 3s; opacity: 0; }
+      #line2         { animation: show2 0s forwards 3s; }
+
+      @keyframes reveal1 {
+        from { clip-path: inset(0 100% 0 0); }
+        to   { clip-path: inset(0 0% 0 0); }
+      }
+      @keyframes reveal2 {
+        from { opacity: 0; clip-path: inset(0 100% 0 0); }
+        to   { opacity: 1; clip-path: inset(0 0% 0 0); }
+      }
+    </style>
+  </defs>
+
+  <rect width="700" height="50" class="bg"/>
+
+  <!-- Line 1 -->
+  <g id="line1">
+    <text x="20" y="22" class="text">$  "Design is not decoration — it's decisions made visual."</text>
+  </g>
+
+  <!-- Cursor that moves to line 2 -->
+  <rect x="20" y="32" width="3" height="14" class="cursor" rx="1"/>
+</svg>
