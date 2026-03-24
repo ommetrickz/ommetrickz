@@ -64,6 +64,10 @@ turning ideas into cinematic experiences that move people.
 
 <br>
 
+<img src="https://skillicons.dev/icons?i=ae,pr,ps,ai,blender&theme=dark&perline=10" />
+
+<br><br>
+
 <h4>Motion & VFX</h4>
 
 <img src="https://img.shields.io/badge/After_Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white" />
