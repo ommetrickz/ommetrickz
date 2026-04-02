@@ -6,10 +6,10 @@
 
 <br>
 
-<a href="#-about"><img src="https://img.shields.io/badge/ABOUT-0d1117?style=flat-square&labelColor=0d1117" /></a>&nbsp;
-<a href="#-toolkit"><img src="https://img.shields.io/badge/TOOLKIT-0d1117?style=flat-square&labelColor=0d1117" /></a>&nbsp;
-<a href="#-projects"><img src="https://img.shields.io/badge/PROJECTS-0d1117?style=flat-square&labelColor=0d1117" /></a>&nbsp;
-<a href="#-connect"><img src="https://img.shields.io/badge/CONNECT-0d1117?style=flat-square&labelColor=0d1117" /></a>
+<a href="#about"><img src="https://img.shields.io/badge/ABOUT-0d1117?style=flat-square&labelColor=0d1117" /></a>&nbsp;
+<a href="#toolkit"><img src="https://img.shields.io/badge/TOOLKIT-0d1117?style=flat-square&labelColor=0d1117" /></a>&nbsp;
+<a href="#projects"><img src="https://img.shields.io/badge/PROJECTS-0d1117?style=flat-square&labelColor=0d1117" /></a>&nbsp;
+<a href="#connect"><img src="https://img.shields.io/badge/CONNECT-0d1117?style=flat-square&labelColor=0d1117" /></a>
 
 </div>
 
@@ -17,7 +17,7 @@
 
 <div align="center">
 
-<h3><code>~/about</code></h3>
+<h3 id="about"><code>~/about</code></h3>
 
 <br>
 
@@ -39,20 +39,16 @@
 
 <table>
 <tr>
-<td align="center" width="200"><b>ORG</b><br><br>Zero Sleep Studio<br><sub>co-founder</sub></td>
-<td align="center" width="200"><b>DAY JOB</b><br><br>Fitelo<br><sub>Asst. Manager · Video Editor</sub></td>
-<td align="center" width="200"><b>STATUS</b><br><br>🟢 Online<br><sub>Accepting Missions</sub></td>
+<td align="center" width="200"><b>ORG</b><br><br>Zero Sleep Studio<br><sub>Co-founder</sub></td>
+<td align="center" width="200"><b>DAY JOB</b><br><br>Fitelo<br><sub>Senior Video Editor</sub></td>
+<td align="center" width="200"><b>STATUS</b><br><br>Online<br><sub>Open for collaboration</sub></td>
 </tr>
 </table>
 
 <br>
 
-I craft **motion systems, brand identities, and visual stories** —<br>
-turning ideas into cinematic experiences that move people.
-
-<br>
-
-<img src="https://img.shields.io/badge/▸_Launching_Zero_Sleep_Studio-0d1117?style=flat-square&labelColor=0d1117&color=1a1a2e" />
+I craft **motion systems, brand identities, and visual stories**<br>
+that turn ideas into cinematic experiences people remember.
 
 </div>
 
@@ -60,30 +56,25 @@ turning ideas into cinematic experiences that move people.
 
 <div align="center">
 
-<h3><code>~/toolkit</code></h3>
+<h3 id="toolkit"><code>~/toolkit</code></h3>
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=ae,pr,ps,ai,blender&theme=dark&perline=10" />
-
-<br><br>
-
-<h4>Motion & VFX</h4>
+<h4>Motion &amp; VFX</h4>
 
 <img src="https://img.shields.io/badge/After_Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white" />
 <img src="https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white" />
 <img src="https://img.shields.io/badge/Nuke-FFB100?style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white" />
-<img src="https://img.shields.io/badge/Cinema_4D-011A6A?style=for-the-badge&logo=cinema4d&logoColor=white" />
 
 <h4>Design</h4>
 
 <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
 <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" />
 
-<h4>AI</h4>
+<h4>IDE &amp; Vibe Code</h4>
 
-<img src="https://img.shields.io/badge/Claude-cc9b7a?style=for-the-badge&logo=anthropic&logoColor=white" />
+<img src="https://img.shields.io/badge/Claude-cc9b7a?style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
 
 </div>
@@ -92,56 +83,59 @@ turning ideas into cinematic experiences that move people.
 
 <div align="center">
 
-<h3><code>~/projects</code></h3>
+<h3 id="projects"><code>~/projects</code></h3>
 
 <br>
+
+<h4>Published</h4>
 
 <table>
 <tr>
-<td align="center" width="200">
+<td align="center" width="220">
 <br>
 <img src="https://img.shields.io/badge/01-4f8ef7?style=for-the-badge&labelColor=0d1117" />
 <br><br>
-<b>ZERO SLEEP<br>STUDIO</b>
+<a href="https://ommetrickz.vercel.app/"><b>OMMETRICKZ<br>PORTFOLIO</b></a>
 <br><br>
-<sub>Creative studio<br>Motion · Brand · Strategy</sub>
+<sub>Cinematic motion design<br>portfolio and project archive</sub>
 <br><br>
-<img src="https://img.shields.io/badge/◉_LAUNCHING-FFB100?style=flat-square&labelColor=0d1117" />
+<a href="https://ommetrickz.vercel.app/"><img src="https://img.shields.io/badge/OPEN_SITE-4f8ef7?style=flat-square&labelColor=0d1117" /></a>
 <br><br>
 </td>
-<td align="center" width="200">
+<td align="center" width="220">
 <br>
 <img src="https://img.shields.io/badge/02-4f8ef7?style=for-the-badge&labelColor=0d1117" />
 <br><br>
-<b>AE<br>SCRIPTS</b>
+<a href="https://radarmed.vercel.app/"><b>RADARMED</b></a>
 <br><br>
-<sub>Open-source AE<br>automation toolkit</sub>
+<sub>Public-data blood search<br>ranked by match and distance</sub>
 <br><br>
-<img src="https://img.shields.io/badge/●_ACTIVE-4f8ef7?style=flat-square&labelColor=0d1117" />
+<a href="https://radarmed.vercel.app/"><img src="https://img.shields.io/badge/OPEN_SITE-4f8ef7?style=flat-square&labelColor=0d1117" /></a>
 <br><br>
 </td>
-<td align="center" width="200">
+<td align="center" width="220">
 <br>
 <img src="https://img.shields.io/badge/03-4f8ef7?style=for-the-badge&labelColor=0d1117" />
 <br><br>
-<b>CAREER<br>AGENT</b>
+<a href="https://github.com/ommetricksz/AFter_Effect_SC"><b>AE<br>SCRIPTS</b></a>
 <br><br>
-<sub>AI-powered career<br>navigation tool</sub>
+<sub>After Effects ExtendScript<br>toolkit for faster workflows</sub>
 <br><br>
-<img src="https://img.shields.io/badge/○_BUILDING-7a8ba0?style=flat-square&labelColor=0d1117" />
+<a href="https://github.com/ommetricksz/AFter_Effect_SC"><img src="https://img.shields.io/badge/OPEN_REPO-4f8ef7?style=flat-square&labelColor=0d1117" /></a>
 <br><br>
 </td>
-<td align="center" width="200">
+</tr>
+</table>
+
 <br>
-<img src="https://img.shields.io/badge/04-4f8ef7?style=for-the-badge&labelColor=0d1117" />
-<br><br>
-<b>LAUNCH<br>INDIA</b>
-<br><br>
-<sub>Startup launch toolkit<br>for Indian founders</sub>
-<br><br>
-<img src="https://img.shields.io/badge/○_BUILDING-7a8ba0?style=flat-square&labelColor=0d1117" />
-<br><br>
-</td>
+
+<h4>Seeding</h4>
+
+<table>
+<tr>
+<td align="center" width="220"><b>ZERO SLEEP<br>STUDIO</b></td>
+<td align="center" width="220"><b>CAREER<br>AGENT</b></td>
+<td align="center" width="220"><b>LAUNCH<br>INDIA</b></td>
 </tr>
 </table>
 
@@ -151,7 +145,7 @@ turning ideas into cinematic experiences that move people.
 
 <div align="center">
 
-<h3><code>~/connect</code></h3>
+<h3 id="connect"><code>~/connect</code></h3>
 
 <br>
 
@@ -171,7 +165,7 @@ turning ideas into cinematic experiences that move people.
 
 ---
 
-<sub><code>// Built with intent. · Chandigarh, India</code></sub>
+<sub><code>// Built with intent. Chandigarh, India</code></sub>
 
 <br><br>
 
